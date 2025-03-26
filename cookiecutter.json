@@ -3,6 +3,6 @@
   "email": "Ben.Ball@Berkeley.edu",
   "project_name": "Python Boilerplate",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
-  "project_short_description": "Whatever",
+  "project_short_description": "Automation Projects",
   "version": "0.1.0"
 }
